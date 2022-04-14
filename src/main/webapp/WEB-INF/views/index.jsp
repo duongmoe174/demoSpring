@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <h1>HEEEELOOOOO</h1>
+  <h1>HEEEELOOOOO: ${name}</h1>
   </body>
 </html>
